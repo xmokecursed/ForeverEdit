@@ -40,6 +40,10 @@ Full details: [`PRIVACY_POLICY.md`](./PRIVACY_POLICY.md).
 ## Screenshots
 
 <!-- Add screenshots here, e.g.: -->
+[Main](./Screenshot 1.png)
+[Edit](./Screenshot 2.png)
+[Style](./Screenshot 3.png)
+[Save](./Screenshot 4.png)
 <!-- ![Style panel](./screenshots/style-panel.png) -->
 <!-- ![Editing a page](./screenshots/editing.png) -->
 
