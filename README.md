@@ -38,15 +38,16 @@ have a server - everything you customize is stored locally in your own browser.
 Full details: [`PRIVACY_POLICY.md`](./PRIVACY_POLICY.md).
 
 ## Screenshots
-* Main
+<ul>
+<li> Main
 <img src="Screenshot 1.png" alt="xmoke" height="512" width="512" />
-* Edit
+<li> Edit
 <img src="Screenshot 2.png" alt="xmoke" height="512" width="512" />
-* Style
+<li> Style
 <img src="Screenshot 3.png" alt="xmoke" height="512" width="512" />
-* Save
+<li> Save
 <img src="Screenshot 4.png" alt="xmoke" height="512" width="512" />
-
+</ul>
 
 ## Install
 
