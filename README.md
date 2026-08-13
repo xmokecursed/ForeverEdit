@@ -53,8 +53,8 @@ Full details: [`PRIVACY_POLICY.md`](./PRIVACY_POLICY.md).
 
 ### Chrome / Brave / Edge / Opera
 
-**From the store** (recommended once published):
-- [Chrome Web Store listing](#) <!-- add link once live -->
+**From the store**:
+- Chrome requires developers to give a fee of 5$ before publishing their work which I'm NOT paying.
 
 **Manual install:**
 1. Download the latest release from the [Releases page](../../releases)
@@ -66,7 +66,7 @@ Full details: [`PRIVACY_POLICY.md`](./PRIVACY_POLICY.md).
 ### Firefox
 
 **From the store** (recommended once published):
-- [Firefox Add-ons listing](#) <!-- add link once live -->
+- [Firefox Add-ons listing](https://addons.mozilla.org/en-US/firefox/addon/foreveredit/)
 
 **Manual install (temporary, for testing):**
 1. Download the latest release from the [Releases page](../../releases)
