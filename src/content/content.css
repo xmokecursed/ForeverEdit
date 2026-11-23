@@ -1,0 +1,45 @@
+.fe-hover-highlight {
+  outline: 2px dashed #000 !important;
+  outline-offset: 1px !important;
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.9) !important;
+  cursor: pointer !important;
+}
+
+.fe-selected {
+  outline: 2px solid #000 !important;
+  outline-offset: 1px !important;
+  box-shadow: 0 0 0 4px #fff !important;
+}
+
+.fe-dragging {
+  opacity: 0.45 !important;
+}
+
+.fe-editable-text {
+  outline: 2px dashed #000 !important;
+  box-shadow: 0 0 0 3px #fff !important;
+  cursor: text !important;
+}
+
+.fe-drop-indicator {
+  position: absolute;
+  z-index: 2147483646;
+  pointer-events: none;
+}
+
+.fe-drop-indicator--line {
+  height: 3px !important;
+  background: #000;
+  border-radius: 2px;
+  box-shadow: 0 0 0 2px #fff;
+}
+
+.fe-drop-indicator--box {
+  background: rgba(0, 0, 0, 0.08);
+  outline: 2px dashed #000;
+  box-shadow: 0 0 0 2px #fff;
+}
+
+.fe-pinned {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+}
