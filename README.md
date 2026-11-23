@@ -40,13 +40,13 @@ Full details: [`PRIVACY_POLICY.md`](./PRIVACY_POLICY.md).
 ## Screenshots
 <ul>
 <li> Main
-<img src="Screenshot 1.png" alt="xmoke" height="512" width="512" />
+<img src="docs/SS_1.png" alt="xmoke" height="512" width="512" />
 <li> Edit
-<img src="Screenshot 2.png" alt="xmoke" height="512" width="512" />
+<img src="docs/SS_2.png" alt="xmoke" height="512" width="512" />
 <li> Style
-<img src="Screenshot 3.png" alt="xmoke" height="512" width="512" />
+<img src="docs/SS_3.png" alt="xmoke" height="512" width="512" />
 <li> Save
-<img src="Screenshot 4.png" alt="xmoke" height="512" width="512" />
+<img src="docs/SS_4.png" alt="xmoke" height="512" width="512" />
 </ul>
 
 ## Install
